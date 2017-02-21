@@ -1,0 +1,40 @@
+.div-0 {
+  height: 110px;
+  width: 100%;
+  background-color: #D8D8D8;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
+.div-inner {
+  height: 100px;
+  width: 100px;
+  background-color: #4A90E2;
+
+}
+.div-2 {
+  height: 90px;
+  width: 100%;
+  background-color: #FFFFFF;
+  padding: 20px;
+}
+.div-3 {
+  height: 110px;
+  width: 100%;
+  background-color: #4A90E2;
+}
+.div-4 {
+  height: 110px;
+  width: 100%;
+  background-color: #50E3C2;
+}
+.div-5 {
+  height: 110px;
+  width: 100%;
+  background-color: #B8E986;
+}
+.div-6 {
+  height: 110px;
+  width: 100%;
+  background-color: #F8E71C;
+}

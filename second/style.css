@@ -1,0 +1,24 @@
+.div-0{
+  height:500px ;
+  width: 200px;
+  float: left;
+  background-color: #4A90E2;
+}
+.div-1{
+  height: 500px;
+  width: 200px;
+  float: left;
+  background-color: #50E3C2;
+}
+.div-2{
+  height: 300px;
+  width: 200px;
+  float: left;
+  background-color: #B8E986;
+}
+.div-3{
+  height: 200px;
+  width: 200px;
+  float: left;
+  background-color: #D0021B;
+}
